@@ -1,0 +1,11 @@
+crear base de datos:
+tuto_db
+
+
+tablas:
+
+tarea
+-id   int pk ai
+-titulo
+-descripcion
+-fecha
